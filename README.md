@@ -1,3 +1,3 @@
 # first
-* Its my first project there*
+*Its my first project there*
 **Dont rate it, pls**
