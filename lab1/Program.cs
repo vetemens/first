@@ -1,2 +1,2 @@
 ﻿
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Dima Lox, ne ymeet igrat v northgard!");
